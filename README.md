@@ -9,6 +9,7 @@ Xception详解
 
 > Xception结构如图所示：
 
+![image](https://github.com/ShaoQiBNU/CV-Xception/blob/master/images/1.png)
 
 
 # 三. 代码
