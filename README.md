@@ -19,3 +19,10 @@ Xception详解
 ```python
 
 ```
+
+
+# 四. 参考
+
+https://github.com/kwotsin/TensorFlow-Xception
+
+https://blog.csdn.net/wangli0519/article/details/73863855
